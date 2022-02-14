@@ -1,0 +1,1 @@
+Inversion {{$userMembership->user->investment()}}

@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'add' => '',
+  'add_language' => '',
+  'add_translation' => '',
+  'advanced_options' => '',
+  'group_label' => '',
+  'group_placeholder' => '',
+  'group_single' => '',
+  'key' => 'Key',
+  'key_label' => '',
+  'key_placeholder' => '',
+  'language_name' => '',
+  'languages' => 'Languages',
+  'locale' => '',
+  'namespace_label' => '',
+  'namespace_placeholder' => '',
+  'save' => '',
+  'search' => '',
+  'translations' => '',
+  'type' => 'Type',
+  'value_label' => '',
+  'value_placeholder' => '',
+);
